@@ -6,7 +6,9 @@ This is a light API server for checking port(s) of IP(s) from `tcping`
 
 - Tcping (`apt install tcping`)
 - Python 3+
+- Flask
+- Request
 
 # Additional
 - Systemd (Recommended)
-- Supervisor
+- Supervisor	
